@@ -2,7 +2,7 @@
 
 Ar-Ge mühendsi ve gelitşirici olarak çeştili projeler yürütüyor ve destek veriyorum.
 
-I’m currently working as R&D engineer and developer<br><br>I strive to sharpen my skills and share my journery.<br><br>
+I’m currently working as R&D engineer and developer. <br>I strive to sharpen my skills and share my journery.<br><br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">  Faydalı Repolarım:
 <br>
