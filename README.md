@@ -31,6 +31,7 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 
 
 # 💻 Tech Stack:
+<br>
 
 <div align="center">
 
