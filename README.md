@@ -6,7 +6,7 @@ I’m currently working as R&D engineer and developer<br><br>I strive to sharpen
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">  Faydalı Repolarım:
 
-Yapay Zeka Öğrenme Depom 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)]([https://yourtutorials.com](https://github.com/onuralpArsln/MlAiTutorialProjects))
+Yapay Zeka Öğrenme Depom ( Teknik Bilgi + Uygulamalı Projeler ) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)]([https://yourtutorials.com](https://github.com/onuralpArsln/MlAiTutorialProjects))
 
 Tasarım Kalıpları (Design Pattern) Açıklamalarım 👉 [![Guides](https://img.shields.io/badge/Guides-blue?logo=book&logoColor=white)](https://github.com/onuralpArsln/Design_Patterns_And_Approaches)
 
