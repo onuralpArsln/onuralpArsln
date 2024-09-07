@@ -39,7 +39,7 @@ CSS Numaraları ve Küçük Tasarımlar  👉 [![GitHub Pages](https://img.shiel
 
 
 ---
-## [![](https://visitcount.itsvg.in/api?id=onuralpArsln&icon=0&color=0)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=onuralpArsln&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🏆 GitHub Trophies
