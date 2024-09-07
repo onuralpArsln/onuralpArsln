@@ -18,13 +18,14 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 
 
 
-## 🌐 Sosyal Medya:
+## 🌐 Sosyal Medya: 
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onuralp-arslan-345561212) 
-
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13982768/onuralp-arslan) 
-
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@onuralparslan7489) 
 
+</div>
 
 
 # 💻 Tech Stack:
