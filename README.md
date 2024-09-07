@@ -5,6 +5,7 @@ Ar-Ge mühendsi ve gelitşirici olarak çeştili projeler yürütüyor ve destek
 I’m currently working as R&D engineer and developer<br><br>I strive to sharpen my skills and share my journery.<br><br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">  Faydalı Repolarım:
+<br>
 
 Yapay Zeka Öğrenme Depom ( Teknik Bilgi + Uygulamalı Projeler ) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)]([https://yourtutorials.com](https://github.com/onuralpArsln/MlAiTutorialProjects))
 
@@ -15,7 +16,7 @@ CSS Numaraları ve Küçük Tasarımlar  👉 [![GitHub Pages](https://img.shiel
 Text Datası Yönetmek (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/dataPrepWithPandas)
 
 Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/AugmentTextData)
-
+<br>
 
 
 ## 🌐 Sosyal Medya: 
