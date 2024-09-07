@@ -34,7 +34,6 @@ CSS Numaraları ve Küçük Tasarımlar  👉 [![GitHub Pages](https://img.shiel
 ![](https://github-readme-streak-stats.herokuapp.com/?user=onuralpArsln&theme=dark&hide_border=false)<br/>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=onuralpArsln&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
