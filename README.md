@@ -31,6 +31,7 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 <br>
 
 Mail 👉 onuralparslan97@gmail.com
+<br><br>
 
 # 💻 Tech Stack:
 <br>
