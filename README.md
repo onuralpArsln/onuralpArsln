@@ -19,6 +19,7 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 
 
 ## 🌐 Sosyal Medya: 
+<br>
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onuralp-arslan-345561212) 
@@ -26,6 +27,7 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@onuralparslan7489) 
 
 </div>
+<br>
 
 
 # 💻 Tech Stack:
