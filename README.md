@@ -11,6 +11,9 @@ Tasarım Kalıpları (Design Pattern) Açıklamalarım 👉 [![Guides](https://i
 
 CSS Numaraları ve Küçük Tasarımlar  👉 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://onuralpArsln.github.io/)
 
+Text Datası Yönetmek (Tezimi Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/dataPrepWithPandas)
+
+
 
 ## 🌐 Sosyal Medya:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onuralp-arslan-345561212) 
