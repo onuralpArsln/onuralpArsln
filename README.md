@@ -25,8 +25,9 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 <br>
 İleri Seviye Derslerden Not Örnekleri
 
-Python👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)]( https://github.com/onuralpArsln/ceng111 )
-Java (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)]( https://github.com/onuralpArsln/learnJava  )
+Python 👉 [![Courses](https://img.shields.io/badge/Courses-yellow?logo=openbook&logoColor=white)]( https://github.com/onuralpArsln/ceng111 ) 
+
+Java 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)]( https://github.com/onuralpArsln/learnJava  )
 
 
 <br><br><br>
