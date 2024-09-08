@@ -18,7 +18,7 @@ CSS Numaraları ve Küçük Tasarımlar  👉 [![GitHub Pages](https://img.shiel
 
 Text Datası Yönetmek (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/dataPrepWithPandas)
 
-Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/AugmentTextData)
+Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=csswizardry&logoColor=white)](https://github.com/onuralpArsln/AugmentTextData)
 <br><br><br>
 
 ## :books: Ders Notları:
@@ -27,7 +27,7 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 
 Python 👉 [![Static Badge](https://img.shields.io/badge/courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/ceng111 ) 
 
-Java 👉 [![Courses](https://img.shields.io/badge/Tutorials-maroon?logo=book&logoColor=white)]( https://github.com/onuralpArsln/learnJava  )
+Java 👉 [![Static Badge](https://img.shields.io/badge/courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/learnJava  )
 
 
 
@@ -123,3 +123,4 @@ Mail 👉 onuralparslan97@gmail.com
 [![](https://visitcount.itsvg.in/api?id=onuralpArsln&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- https://shields.io/badges -->
