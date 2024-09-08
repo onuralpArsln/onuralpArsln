@@ -18,7 +18,7 @@ CSS Numaraları ve Küçük Tasarımlar  👉 [![GitHub Pages](https://img.shiel
 
 Text Datası Yönetmek (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/dataPrepWithPandas)
 
-Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=csswizardry&logoColor=white)](https://github.com/onuralpArsln/AugmentTextData)
+Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/AugmentTextData)
 <br><br><br>
 
 ## :books: Ders Notları:
