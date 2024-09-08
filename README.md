@@ -24,15 +24,12 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 
 ## :books: Ders Notları:
 <br>
-İleri Seviye Derslerden Not Örnekleri
-<br>
+İleri Seviye Derslerimden Not Örnekleri
+<br><br>
 
 Python 👉 [![Static Badge](https://img.shields.io/badge/courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/ceng111 ) 
 
 Java 👉 [![Static Badge](https://img.shields.io/badge/courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/learnJava  )
-
-
-
 
 <br><br><br>
 ## 🌐 Sosyal Medya: 
