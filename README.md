@@ -1,6 +1,9 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" /> Merhaba:
 
-Ar-Ge mühendsi ve gelitşirici olarak çeştili projeler yürütüyor ve destek veriyorum.
+Ar-Ge mühendsi ve gelitşirici olarak çeştili projeler yürütüyor ve destek veriyorum. 
+Yapay zeka ve biyomedikal mühendisliği alanında doktra çalışmalarımı sürdürmekteyim.
+Python Ve Java ile dersler vermekteyim.
+
 
 I’m currently working as R&D engineer and developer. <br>I strive to sharpen my skills and share my journery.<br><br>
 
@@ -18,7 +21,15 @@ Text Datası Yönetmek (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tut
 Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/AugmentTextData)
 <br><br><br>
 
+## :books: Ders Notları:
+<br>
+İleri Seviye Derslerden Not Örnekleri
 
+Python👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)]( https://github.com/onuralpArsln/ceng111 )
+Java (Tezimin Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)]( https://github.com/onuralpArsln/learnJava  )
+
+
+<br><br><br>
 ## 🌐 Sosyal Medya: 
 <br>
 <div align="center">
