@@ -25,9 +25,11 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 <br>
 İleri Seviye Derslerden Not Örnekleri
 
-Python 👉 [![📚 Courses](https://img.shields.io/badge/Courses-maroon?style=for-the-badge)]( https://github.com/onuralpArsln/ceng111 ) 
+Python 👉 [![Static Badge](https://img.shields.io/badge/courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/ceng111 ) 
 
 Java 👉 [![Courses](https://img.shields.io/badge/Tutorials-maroon?logo=book&logoColor=white)]( https://github.com/onuralpArsln/learnJava  )
+
+
 
 
 <br><br><br>
