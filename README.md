@@ -27,7 +27,7 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 
 Python 👉 [![📚 Courses](https://img.shields.io/badge/Courses-maroon?style=for-the-badge)]( https://github.com/onuralpArsln/ceng111 ) 
 
-Java 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-maroon?logo=book&logoColor=white)]( https://github.com/onuralpArsln/learnJava  )
+Java 👉 [![ :book: Courses](https://img.shields.io/badge/Tutorials-maroon?logo=book&logoColor=white)]( https://github.com/onuralpArsln/learnJava  )
 
 
 <br><br><br>
