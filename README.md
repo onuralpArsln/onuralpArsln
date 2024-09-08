@@ -105,7 +105,7 @@ Mail 👉 onuralparslan97@gmail.com
 
 
 
-![]([https://github-readme-streak-stats.herokuapp.com/?user=onuralpArsln&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=onuralpArsln&theme=dark&hide_border=false))<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=onuralpArsln&theme=dark&hide_border=false)<br/>
 
 
 
