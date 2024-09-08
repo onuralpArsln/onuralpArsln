@@ -5,7 +5,8 @@ Yapay zeka odaklı olarak biyomedikal mühendisliği alanında doktora çalışm
 Ayrıca Python ve Java üzerine dersler vererek bilgi ve deneyimlerimi paylaşıyorum.
 
 
-I’m currently working as R&D engineer and developer. <br>I strive to sharpen my skills and share my journery.<br><br>
+I’m currently working as R&D engineer and developer. <br>I strive to sharpen my skills and share my journery.
+<br><br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">  Faydalı Repolarım:
 <br>
@@ -24,6 +25,7 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 ## :books: Ders Notları:
 <br>
 İleri Seviye Derslerden Not Örnekleri
+
 
 Python 👉 [![Static Badge](https://img.shields.io/badge/courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/ceng111 ) 
 
