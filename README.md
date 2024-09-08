@@ -1,8 +1,8 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" /> Merhaba:
 
-Ar-Ge mühendsi ve gelitşirici olarak çeştili projeler yürütüyor ve destek veriyorum. 
-Yapay zeka ve biyomedikal mühendisliği alanında doktra çalışmalarımı sürdürmekteyim.
-Python Ve Java ile dersler vermekteyim.
+Ar-Ge mühendisi ve geliştirici olarak çeşitli projeler yürütüyor ve destek veriyorum. 
+Yapay zeka odaklı olarak biyomedikal mühendisliği alanında doktora çalışmalarımı sürdürüyorum. 
+Ayrıca Python ve Java üzerine dersler vererek bilgi ve deneyimlerimi paylaşıyorum.
 
 
 I’m currently working as R&D engineer and developer. <br>I strive to sharpen my skills and share my journery.<br><br>
