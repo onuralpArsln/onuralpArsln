@@ -27,9 +27,9 @@ Text Datasını Arttırmak (Tezimin Parçası Olduğu İçin İngilizce) 👉 [!
 İleri seviye derslerimden örnek notlar ve içerikler.
 <br><br>
 
-Python 👉 [![Static Badge](https://img.shields.io/badge/courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/ceng111 ) 
+Python 👉 [![Static Badge](https://img.shields.io/badge/Courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/ceng111 ) 
 
-Java 👉 [![Static Badge](https://img.shields.io/badge/courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/learnJava  )
+Java 👉 [![Static Badge](https://img.shields.io/badge/Courses-maroon?style=flat&logo=gitbook)]( https://github.com/onuralpArsln/learnJava  )
 
 <br><br>
 ## 🌐 Sosyal Medya: 
