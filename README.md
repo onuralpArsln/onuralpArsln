@@ -20,6 +20,12 @@ CSS Numaraları ve Küçük Tasarımlar  👉 [![GitHub Pages](https://img.shiel
 Text Datası Yönetmek (Proje Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/dataPrepWithPandas)
 
 Text Datasını Arttırmak (Proje Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/AugmentTextData)
+
+Rust ile Web3 Geliştrime (Proje Parçası Olduğu İçin İngilizce) 👉 [![Tutorials](https://img.shields.io/badge/Tutorials-yellow?logo=book&logoColor=white)](https://github.com/onuralpArsln/stellarSoroban)
+
+
+
+
 <br><br><br>
 
 ## :books: Ders Notları:
