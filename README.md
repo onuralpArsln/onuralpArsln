@@ -1,11 +1,10 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" /> Merhaba:
 
-Ar-Ge mühendisi ve geliştirici olarak çeşitli projeler yürütüyor ve destek veriyorum. 
-Yapay zeka odaklı olarak biyomedikal mühendisliği alanında doktora çalışmalarımı sürdürüyorum. 
-Ayrıca Python ve Java üzerine dersler vererek bilgi ve deneyimlerimi paylaşıyorum.
+I am an R&D engineer working on AI-driven solutions, with a PhD focus in biomedical engineering. My work combines artificial intelligence and Linux-based technologies to support various research and development projects. I also teach software development courses, mainly in Python and Java, aiming to share practical knowledge and foster learning.
+
+Yapay zeka tabanlı çözümler üzerine çalışan bir Ar-Ge mühendisiyim. Doktora çalışmalarımı biyomedikal mühendisliği alanında sürdürüyorum. Çalışmalarımda yapay zekayı ve Linux tabanlı teknolojileri bir araya getirerek çeşitli araştırma ve geliştirme projelerine katkı sağlıyorum. Ayrıca, ağırlıklı olarak Python ve Java konularında yazılım geliştirme dersleri vererek bilgi ve deneyimlerimi paylaşıyorum.
 
 
-I’m currently working as R&D engineer and developer. <br>I strive to sharpen my skills and share my journery.
 <br><br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">  Faydalı Repolarım:
